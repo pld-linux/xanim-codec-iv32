@@ -1,5 +1,5 @@
 Summary:	Indeo 3.2 codec for XAnim
-Summary(pl.UTF-8):   Kodek Indeo 3.2 dla XAnima
+Summary(pl.UTF-8):	Kodek Indeo 3.2 dla XAnima
 Name:		xanim-codec-iv32
 Version:	2.1
 Release:	1
