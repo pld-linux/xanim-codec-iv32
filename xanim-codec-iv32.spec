@@ -1,5 +1,5 @@
 Summary:	Indeo 3.2 codec for XAnim
-Summary(pl):	Kodek Indeo 3.2 dla XAnima
+Summary(pl.UTF-8):   Kodek Indeo 3.2 dla XAnima
 Name:		xanim-codec-iv32
 Version:	2.1
 Release:	1
@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Intel Indeo 3.2 codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka Intel Indeo 3.2 dla XAnima.
 
 %prep
